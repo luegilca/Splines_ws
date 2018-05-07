@@ -22,7 +22,8 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+|Juan Sebastián Martínez Beltrán|[juasmartinezbel](https://github.com/juasmartinezbel)|
+|Luis Ernesto Gil Castellanos|[luegilca](https://github.com/luegilca)|
 
 ## Entrega
 
